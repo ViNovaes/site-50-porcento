@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=Ibarra+Real+Nova&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=Edu+VIC+WA+NT+Beginner:wght@500&family=Ibarra+Real+Nova&display=swap');
+
+body {
+    width: 50%;
+    margin: auto;
+}
+
+div {
+    background-color: #cddafd;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.datas {
+    color: #c77dff;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+h2 {
+    color: #7b2cbf;
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+.texto {
+    color:#9d4edd;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
